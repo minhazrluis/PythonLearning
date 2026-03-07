@@ -1,0 +1,12 @@
+[
+    {
+        "name": "books",
+        "amount": 2000.0,
+        "category": "stationary"
+    },
+    {
+        "name": "pen",
+        "amount": 50.0,
+        "category": "stationary"
+    }
+]
